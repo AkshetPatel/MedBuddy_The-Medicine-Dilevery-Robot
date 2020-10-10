@@ -13,7 +13,19 @@ With the ever increasing rise in the amount of daily covid-19 positive cases in 
 The application which is used to drive the car is created using MIT App Inventor. MIT App inventor is an online platform designed to teach computational thinking concepts through development of mobile applications. Students create applications by dragging and dropping components into a design view and using a visual blocks language to program application behavior.
 
 ## Images:
+### 1. Icon:
 ![](https://github.com/AkshetPatel/MedBuddy_The-Medicine-Dilevery-Robot./blob/main/Images/MedBuddy_Icon.jpg)
-<div align=”center”> [Icon]</div>
+
+### 2. App Interface:
+![](https://github.com/AkshetPatel/MedBuddy_The-Medicine-Dilevery-Robot./blob/main/Images/App_Interface.jpeg)
+
+### 3. Rear view of MedBuddy:
+![](https://github.com/AkshetPatel/MedBuddy_The-Medicine-Dilevery-Robot./blob/main/Images/Rear_View.jpeg)
+
+### 4. Side View of MedBuddy:
+![](https://github.com/AkshetPatel/MedBuddy_The-Medicine-Dilevery-Robot./blob/main/Images/Side_view.jpeg)
+
+The code used in this project can be found [here.](https://github.com/AkshetPatel/MedBuddy_The-Medicine-Dilevery-Robot./blob/main/MedBuddy_Code/MedBuddy.ino)
+
 
 ##### This project and the App Interface is inspired by [Muhammad Ansar Sir](https://github.com/embeddedlab786/Cam_Control_Robot). 
