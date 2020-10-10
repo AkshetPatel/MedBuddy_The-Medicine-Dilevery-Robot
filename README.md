@@ -26,6 +26,7 @@ The application which is used to drive the car is created using MIT App Inventor
 ![](https://github.com/AkshetPatel/MedBuddy_The-Medicine-Dilevery-Robot./blob/main/Images/Side_view.jpeg)
 
 The code used in this project can be found [here.](https://github.com/AkshetPatel/MedBuddy_The-Medicine-Dilevery-Robot./blob/main/MedBuddy_Code/MedBuddy.ino)
+###### Note: This is a prototype of the prototype.
 
 
 ##### This project and the App Interface is inspired by [Muhammad Ansar Sir](https://github.com/embeddedlab786/Cam_Control_Robot). 
